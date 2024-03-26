@@ -1,0 +1,11 @@
+Visual Explaination
+1. Have created the POwerBI visualization for with slicer.
+ one is the columar chart with tree map to find the title more rated.
+2.Have creeated the Pie chart which represent the percentage wise the rating of the title.
+
+Python Script
+For the script we have parse the json and created the dataframe.
+after that we have calculcated the size of the items and then order by asc
+For the 2nd scenario we have shifted reverse and found the duplicate count in order to get the group pattern similiar.
+
+We can as an alternative we can use pyspark also and createorReplaceview to write the above logic on sql also
